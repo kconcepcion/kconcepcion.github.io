@@ -1,3 +1,3 @@
 # kconcepcion.github.io
 
-https://kconcepcion.github.io/
+https://kconcepcion.github.io/index.html
